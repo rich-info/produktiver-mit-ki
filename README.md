@@ -12,7 +12,7 @@ Die Bibliothek umfasst eine breite Palette an Anwendungsfällen, darunter:
 - Kreative Ideenfindung
 
 ## Nutzung
-- Entweder die Webseite unter [www.produktiver-mit-ki.de](www.produktiver-mit-ki.de) aufrufen oder in der  [CSV-Datei](./prompts.csv) nach Prompts suchen.
+- Entweder die Webseite unter [www.produktiver-mit-ki.de](https://www.produktiver-mit-ki.de) aufrufen oder in der  [CSV-Datei](./prompts.csv) nach Prompts suchen.
 
 ## Mitmachen & Beiträge
 Diese Bibliothek lebt von der Community! Wenn du wertvolle Prompts hast oder bestehende Anweisungen verbessern möchtest, kannst du gerne beitragen. Erstelle dazu einen Pull Request oder reiche Vorschläge ein.
